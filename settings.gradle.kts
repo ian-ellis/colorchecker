@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Color Checker"
 include(":app")
- 
