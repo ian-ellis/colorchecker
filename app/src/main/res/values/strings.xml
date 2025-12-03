@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Color Checker</string>
+    <string name="grant_camera_permissions">Grant Camera Permissions</string>
+    <string name="grant_camera_permissions_reason">We need camera posisitions for the app to work</string>
 </resources>
